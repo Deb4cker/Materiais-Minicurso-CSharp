@@ -1296,18 +1296,4 @@ var query10 = context.Lojas
             .Distinct()
             .ToList()
     });
-
-
-public static void ExecutarConsultas(AppDbContext context)
-{
-    var resultado1 = query1.ToList();
-    foreach (var loja in resultado1)
-    {
-        Console.WriteLine($"Loja: {loja.NomeLoja}");
-        foreach (var marca in loja.CarrosPorMarca)
-        {
-            Console.WriteLine($"\t{marca.Marca}: {marca.Quantidade} carros");
-        }
-    }
-}
 ```
