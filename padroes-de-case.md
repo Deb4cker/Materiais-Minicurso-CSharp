@@ -1,12 +1,12 @@
-| Kind               | Rule                 |
+| Tipo               | Regra                |
 |--------------------|----------------------|
-| Private field      | _camelCase           |
-| Public field       | PascalCase           |
-| Protected field    | PascalCase           |
-| Internal field     | PascalCase           |
+| Campo Private      | _camelCase           |
+| Campo Public       | PascalCase           |
+| Campo Protected    | PascalCase           |
+| Campo Internal     | PascalCase           |
 | Property           | PascalCase           |
-| Method             | PascalCase           |
-| Class              | PascalCase           |
+| Método             | PascalCase           |
+| Classe             | PascalCase           |
 | Interface          | IPascalCase          |
-| Local variable     | camelCase            |
-| Parameter          | camelCase            |
+| variável local     | camelCase            |
+| Parâmetro          | camelCase            |
