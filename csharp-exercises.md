@@ -251,8 +251,7 @@
       ```
 
 20. **Sistema de Gerenciamento de Concessionária**
-    - Na sua maquina, abra o projeto "ExemploLinq" disponível em: 
-    https://drive.google.com/drive/folders/1uvy6DsyR9oHfTKvDFSNKWTghrYXzQ5NE?usp=drive_link
+    - Na sua maquina, abra o projeto "ExemploLinq" disponível no repositório
     - Abra a classe "Exercicio.cs"
     - Utilizando o modelo de dados fornecido (Carro, Loja, Marca), implemente as seguintes consultas LINQ em cada um dos seus respectivos métodos:
       1. Liste todas as lojas e a quantidade de carros por marca em cada loja
